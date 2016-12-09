@@ -1,0 +1,154 @@
+Input system
+72 -3 16  | -1
+41 -92 12  | 60
+10 -7 -91  | -12
+
+Divided system
+1 -0.0416667 0.222222  | -0.0138889
+-0.445652 1 -0.130435  | -0.652174
+-0.10989 0.0769231 1  | 0.131868
+
+
+q = 0.576087
+
+First Approximation
+-0.0138889
+-0.652174
+0.131868
+
+Next Approximation
+0.0425891
+-0.663184
+0.0832272
+
+Next Approximation
+0.0322387
+-0.68201
+0.0761738
+
+Next Approximation
+0.0314557
+-0.676477
+0.0758631
+
+Next Approximation
+0.0311561
+-0.676087
+0.0763748
+
+Next Approximation
+0.0312536
+-0.676021
+0.0764377
+
+Next Approximation
+0.0312648
+-0.676072
+0.0764321
+
+Next Approximation
+0.0312657
+-0.676077
+0.0764269
+
+Next Approximation
+0.0312647
+-0.676076
+0.0764265
+
+Next Approximation
+0.0312646
+-0.676076
+0.0764266
+
+Next Approximation
+0.0312646
+-0.676076
+0.0764266
+
+Next Approximation
+0.0312646
+-0.676076
+0.0764266
+
+Next Approximation
+0.0312646
+-0.676076
+0.0764266
+
+Next Approximation
+0.0312646
+-0.676076
+0.0764266
+
+Next Approximation
+0.0312646
+-0.676076
+0.0764266
+
+Next Approximation
+0.0312646
+-0.676076
+0.0764266
+
+Next Approximation
+0.0312646
+-0.676076
+0.0764266
+
+Next Approximation
+0.0312646
+-0.676076
+0.0764266
+
+Next Approximation
+0.0312646
+-0.676076
+0.0764266
+
+Next Approximation
+0.0312646
+-0.676076
+0.0764266
+
+Next Approximation
+0.0312646
+-0.676076
+0.0764266
+
+Next Approximation
+0.0312646
+-0.676076
+0.0764266
+
+Next Approximation
+0.0312646
+-0.676076
+0.0764266
+
+Next Approximation
+0.0312646
+-0.676076
+0.0764266
+
+Next Approximation
+0.0312646
+-0.676076
+0.0764266
+
+Next Approximation
+0.0312646
+-0.676076
+0.0764266
+
+Next Approximation
+0.0312646
+-0.676076
+0.0764266
+
+
+Seidel Solution
+0.0312646
+-0.676076
+0.0764266
+Life is good!
